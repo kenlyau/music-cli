@@ -1,0 +1,19 @@
+{
+  "name": "cli-music",
+  "version": "0.0.1",
+  "description": "music",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "kenlyau",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "keypress": "^0.2.1",
+    "player": "^0.6.1"
+  }
+}
